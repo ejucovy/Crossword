@@ -6,146 +6,92 @@
 		// two entries: an across entry and a down entry
 		var puzzleData = [
 			 	{
-					clue: "First letter of greek alphabet",
-					answer: "alpha",
+					clue: "Shaking, for Sachwald",
+					answer: "vibration",
+					position: 0,
+					orientation: "down",
+					startx: 1,
+					starty: 1
+				},
+                  {
+					clue: "AKRF's ___ approach",
+					answer: "integrated",
+					position: 2,
+					orientation: "across",
+					startx: 1,
+					starty: 2
+		  },
+                  				{
+					clue: "F in FTA",
+					answer: "federal",
 					position: 1,
-					orientation: "across",
-					startx: 1,
+					orientation: "down",	
+					startx: 4,
 					starty: 1
 				},
+
 			 	{
-					clue: "Not a one ___ motor, but a three ___ motor",
-					answer: "phase",
-					position: 3,
-					orientation: "across",
-					startx: 7,
-					starty: 1
-				},
-				{
-					clue: "Created from a separation of charge",
-					answer: "capacitance",
-					position: 5,
+					clue: "Allee King ____ & Fleming",
+					answer: "rosen",
+					position: 4,
 					orientation: "across",
 					startx: 1,
-					starty: 3
+					starty: 4
 				},
 				{
-					clue: "The speeds of engines without and accelaration",
-					answer: "idlespeeds",
+					clue: "A in CMAQ",
+					answer: "air",
 					position: 8,
-					orientation: "across",
-					startx: 1,
-					starty: 5
-				},
-				{
-					clue: "Complex resistances",
-					answer: "impedances",
-					position: 10,
-					orientation: "across",	
-					startx: 2,
-					starty: 7
-				},
-				{
-					clue: "This device is used to step-up, step-down, and/or isolate",
-					answer: "transformer",
-					position: 13,
-					orientation: "across",
-					startx: 1,
+					orientation: "down",
+					startx: 11,
 					starty: 9
 				},
 				{
-					clue: "Type of ray emitted frm the sun",
-					answer: "gamma",
-					position: 16,
-					orientation: "across",
-					startx: 1,
-					starty: 11
-				},
-				{
-					clue: "C programming language operator",
-					answer: "cysan",
-					position: 17,
-					orientation: "across",
-					startx: 7,
-					starty: 11
-				},
-				{
-					clue: "Defines the alpha-numeric characters that are typically associated with text used in programming",
-					answer: "ascii",
-					position: 1,
-					orientation: "down",
-					startx: 1,
-					starty: 1
-				},
-				{
-					clue: "Generally, if you go over 1kV per cm this happens",
-					answer: "arc",
-					position: 2,
-					orientation: "down",
-					startx: 5,
-					starty: 1
-				},
-				{
-					clue: "Control system strategy that tries to replicate the human through process (abbr.)",
-					answer: "ann",
-					position: 4,
-					orientation: "down",
-					startx: 9,
-					starty: 1
-				},
-				{
-					clue: "Greek variable that usually describes rotor positon",
-					answer: "theta",
-					position: 6,
-					orientation: "down",
-					startx: 7,
-					starty: 3
-				},
-				{
-					clue: "Electromagnetic (abbr.)",
-					answer: "em",
-					position: 7,
-					orientation: "down",
-					startx: 11,
-					starty: 3
-				},
-				{
-					clue: "No. 13 across does this to a voltage",
-					answer: "steps",
+					clue: "R in CEQR or ULURP",
+					answer: "review",
 					position: 9,
 					orientation: "down",
-					startx: 5,
-					starty: 5
+					startx: 9,
+					starty: 9
 				},
 				{
-					clue: "Emits a lout wailing sound",
-					answer: "siren",
-					position: 11,
-					orientation: "down",
-					startx: 11,
-					starty: 7
+					clue: "___ field Cleanup Programs, in HazMat",
+					answer: "brown",
+					position: 5,
+					orientation: "across",
+					startx: 7,
+					starty: 4
 				},
 				{
-					clue: "Information technology (abbr.)",
-					answer: "it",
-					position: 12,
+					clue: "Naturally occurring fiber, usually abated in demolition ",
+					answer: "asbestos",
+					position: 3,
 					orientation: "down",
-					startx: 1,
+					startx: 7,
+					starty: 2
+				},
+				{
+					clue: "Pb, for chemists",
+					answer: "lead",
+					position: 7,
+					orientation: "down",
+					startx: 13,
 					starty: 8
 				},
 				{
-					clue: "Asynchronous transfer mode (abbr.)",
-					answer: "atm",
-					position: 14,
-					orientation: "down",
-					startx: 3,
-					starty: 9
+					clue: "_____ General",
+					answer: "sturgeon",
+					position: 6,
+					orientation: "across",
+					startx: 7,
+					starty: 6
 				},
+				
 				{
-					clue: "Offset current control (abbr.)",
-					answer: "occ",
-					position: 15,
-					orientation: "down",
+					clue: "sub____ explorations, to Geotechs",
+					answer: "surface",
+					position: 10,
+					orientation: "across",
 					startx: 7,
 					starty: 9
 				}
